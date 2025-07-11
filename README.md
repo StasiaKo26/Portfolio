@@ -21,3 +21,5 @@ Here is my portfolio:
 - [Bug reports (AliExpress)](https://docs.google.com/spreadsheets/d/1iLYEeBW1JPTPNyX-qdCor1-XSoGYgo9XDi-M4oQDO9o/edit?usp=sharing "title")
 - [SQL queries](https://docs.google.com/spreadsheets/d/1BOaOp9Rep_2pHCPQUtEL3optDbdqaWFhqocRcJehJwY/edit?usp=sharing "title")
 - [API testing Postman (Trello)](https://docs.google.com/spreadsheets/d/1fLQCkLY653rd91lc8JpiPO4lv5WGuGdz48ry4KbEQBs/edit?usp=sharing "title")
+- [Bug reports (SE Rancking)](https://docs.google.com/spreadsheets/d/1QBpVdSGrPxzie31LzYnAmEo6NsNGYqgIgUltwDz0XDQ/edit?usp=sharing "title")
+- [Test Cases (Calendly)](https://www.notion.so/DevelopsToday-Manual-QA-Engineer-assessment-21841ee2170c8033b7fed5b956d0caa8?source=copy_link "title")
